@@ -1,4 +1,4 @@
-# Sorteio-de-Quest-es-para-Equipes
+# Sorteio de Questões para Equipes
 Uma simples ferramenta para sortear questões de uma lista de exercícios entre membros de uma equipe. Para isso, basta executar o script Sorteio.py.
 
 ## A Fazer
